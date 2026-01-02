@@ -1,0 +1,16 @@
+{
+  "name": "LOVE Client",
+  "title": "愛客戶端",
+  "gameVersion": "1.8.9",
+  "features": [],
+  "files": [
+    {
+      "path": "mods/modid-1.0.jar",
+      "url": "https://duvbeovo.github.io/my-client-repo/mods/modid-1.0.jar",
+      "update": "REPLACE",
+      "hash": "4742AF8F69F4FBDE797B32AAA754EBE44C2C2719",
+      "required": true,
+      "forceUpdate": true
+    }
+  ]
+}
